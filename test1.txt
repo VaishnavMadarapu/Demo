@@ -1,3 +1,1 @@
-Hello
-
-em chedam antav mari.
+puts "hello, World"
